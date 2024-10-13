@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost","root","","root");
+$conn = mysqli_connect("localhost","root","","main");
 if($conn){
     $user_messages = mysqli_real_escape_string($conn, $_POST['messageValue']);
     
