@@ -54,6 +54,9 @@
     padding: 0 20px;
     overflow-y: auto;
 }
+.content button:hover{
+    background: #000000;
+}
 .chat
 {
     min-height: 40px;
