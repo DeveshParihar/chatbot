@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost","root","","chatbot");
+$conn = mysqli_connect("localhost","root","","chatbots");
 if($conn){
     $user_messages = mysqli_real_escape_string($conn, $_POST['messageValue']);
     
