@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost","root","","onlinebot");
+$conn = mysqli_connect("sql305.infinityfree.com","if0_37545612","krmDORS9x0HUDB","if0_37545612_onlinebot");
 if($conn){
     $user_messages = mysqli_real_escape_string($conn, $_POST['messageValue']);
     
