@@ -3,8 +3,8 @@ My First Project Chatbot from Complete Web Development Course
 
 
 <div>
-<img src="Chatnotscreen1.png" width:"100%" height="100%"></img>
+<img src="Chatbotscreen1.png" width:"100%" height="100%"></img>
 </div>
 <div>
-<img src="Chatnotscreen2.png" width:"100%" height="100%"></img>
+<img src="Chatbotscreen2.png" width:"100%" height="100%"></img>
 </div>
